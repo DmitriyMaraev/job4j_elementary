@@ -26,7 +26,6 @@ class LogicNotTest {
         assertThat(result).isTrue();
     }
 
-
     @Test
     void whenIsPositiveFalse() {
         int num = -2;
